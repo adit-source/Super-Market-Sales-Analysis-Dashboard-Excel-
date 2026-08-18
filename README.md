@@ -52,16 +52,6 @@ The dataset contains **31,047 records** and includes information such as:
   * Pivot Charts
   * Data analysis
 
-* **Python** *(if used in the project)*
-
-  * Pandas
-  * NumPy
-  * Matplotlib
-* **SQL** *(if used in the project)*
-
-  * Data extraction
-  * Aggregation
-  * Business analysis
 
 
 
